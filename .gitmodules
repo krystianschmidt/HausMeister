@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/krystianschmidt/wer-hat-die-maschiene-gemacht-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/krystianschmidt/wer-hat-die-maschiene-gemacht-backend.git
