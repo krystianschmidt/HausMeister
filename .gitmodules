@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/krystianschmidt/wer-hat-die-maschine-gemacht-frontend.git
+	url = https://github.com/krystianschmidt/HausMeister-frontend.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/krystianschmidt/wer-hat-die-maschine-gemacht-backend.git
+	url = https://github.com/krystianschmidt/HausMeister-backend.git
